@@ -28,7 +28,8 @@ Demo Site Url : https://bhuvaneswaran9361.github.io/Todolist/
 
 ## 📸 Screenshot
 
-> ![App Screenshot][<img width="1919" height="997" alt="image" src="https://github.com/user-attachments/assets/b7131149-b97d-4e3f-8c5e-764eae4d91d8" />]
+> ![App Screenshot][<img width="1917" height="995" alt="image" src="https://github.com/user-attachments/assets/184226ab-93b1-43f3-9052-72a126f9076f" />
+]
 
 ---
 
