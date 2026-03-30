@@ -29,7 +29,7 @@ Demo Site Url : https://bhuvaneswaran9361.github.io/Todolist/
 ## 📸 Screenshot
 
 > _Add a screenshot of your app here by replacing this line with:_
-> `![App Screenshot](screenshot.png)`
+> ![App Screenshot](<img width="1919" height="997" alt="image" src="https://github.com/user-attachments/assets/0dd477ac-13e1-446b-ba60-2b5f892c2aa6" />)
 
 ---
 
